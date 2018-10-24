@@ -1,2 +1,2 @@
 # DmojProblems
-A collection of solutions for problems on dmoj.
+A collection of my solutions to problems on dmoj.
